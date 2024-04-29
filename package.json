@@ -1,6 +1,6 @@
 {
   "name": "@eklingen/node-profiler",
-  "version": "0.9.9",
+  "version": "1.0.0",
   "description": "Simple Node Profiler (CPU, Heap and Heap Snapshot).",
   "repository": {
     "type": "git",
