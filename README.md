@@ -9,7 +9,7 @@ Init the profiler with the desired type.
 Optionally, a filename prefix can be added (default is `__`) as the second argument.
 
 ```javascript
-import { Profiler } from '@eklingen/node-profiler'
+import Profiler from '@eklingen/node-profiler'
 const profiler = new Profiler('cpu') // Can be `cpu` (default), `heap` or `heap-snapshot`
 ```
 
