@@ -1,6 +1,10 @@
 
 # Node Profiler
 
+> This project was originally developed independently and has been used in projects at [Fabrique](https//www.fabrique.nl) and [Q42](https://www.q42.nl).
+> It remains publicly available and can be forked or maintained independently if needed.
+> No guarantees are provided for long-term maintenance.
+
 Simple profiler for Node. Get a CPU Profile, Heap Profile or Heap Snapshot that can then be loaded into VSCode or Chrome DevTools.
 
 ## Usage
